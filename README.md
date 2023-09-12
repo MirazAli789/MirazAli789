@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--it7aWv4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjdim9k4525gck7ko2hk.gif)]
+[![MasterHead](https://gist.githubusercontent.com/tanaytoshniwal/dbcc501e0e7b849e563268069bac3c4e/raw/da8621a2c00c9380c8e47706b61e09afb9250666/Data-Structures-Algorithms.gif)]
 <h1 align="center">Hi 👋, I'm Syed Miraz Ali</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyZWg1cnYzbHhxMHN6Z24wZGM2Z3hiNGpla3l6d3Vwb3d3bzBzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" >.
