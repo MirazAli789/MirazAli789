@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=500&pause=1000&background=33FF2A00&center=true&width=484&lines=Namaste!!%F0%9F%99%8F;I'm+Syed+Miraz+Ali;CS+student+from+West+Bengal;Currently+learning+DSA+;Learning+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=500&pause=1000&background=33FF2A00&center=true&width=484&lines=;I'm+Syed+Miraz+Ali;CS+student+from+West+Bengal;Currently+learning+DSA+;Learning+web+development)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+to+meet+you!!😊)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Syed Miraz Ali</h1>
 <h3 align="center">A passionate computer science student from India</h3>
